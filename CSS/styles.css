@@ -1,7 +1,7 @@
 .Container{
     height: 650px;
-    background-color:rgba(162, 113, 207, 0.691);
     flex-direction: row;
+    background-color:rgba(162, 113, 207, 0.691);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
