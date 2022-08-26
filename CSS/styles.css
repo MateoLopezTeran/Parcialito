@@ -22,22 +22,27 @@
 
 .Shrek{
     align-self: center;
+    order: 5;
   }
 
 .Fiona{
     align-self: stretch;
+    order: 1;
 }
 
 .Burro{
     align-self: center;
+    order: 3;
     
 }
 
 .Gato_con_Botas{
     align-self: flex-end;
+    order: 2;
 }
 
 .Pinocho{
     align-self: flex-start;
+    order: 4;
 }
 
