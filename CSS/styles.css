@@ -1,19 +1,19 @@
 .Container{
     background-color:rgba(162, 113, 207, 0.691);
     height: 650px;
-    display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    flex-wrap: wrap;
     padding: 15px;
+    align-items: flex-start;
 }
 
 .item{
     background-color: rgba(122, 230, 194, 0.787);
-    background-repeat: no-repeat;
-    width: 150px;
     padding: 15px;
+    width: 150px;
+    background-repeat: no-repeat;
 }
 
 .imagen{
